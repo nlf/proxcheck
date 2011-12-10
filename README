@@ -1,0 +1,5 @@
+This tool checks the proximity of a given bluetooth device and displays the strength in the terminal
+
+To use, make sure you've paired your device with OSX at least once
+
+Depends on the termcolor library, so install that with pip
