@@ -3,3 +3,5 @@ This tool checks the proximity of a given bluetooth device and displays the stre
 To use, make sure you've paired your device with OSX at least once
 
 Depends on the termcolor library, so install that with pip
+
+Also, it probably only works in OSX Lion
